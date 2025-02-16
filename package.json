@@ -20,6 +20,7 @@
     "lodash": "^4.17.21",
     "regenerator-runtime": "^0.14.1",
     "require-directory": "^2.1.1",
+    "react-scripts": "5.0.1",
     "rxjs": "^7.8.1",
     "shell-quote": "^1.8.2",
     "spawn-command": "^0.0.2",
