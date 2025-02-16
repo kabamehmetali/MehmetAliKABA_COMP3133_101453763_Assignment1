@@ -7,13 +7,7 @@ This project is a full-stack application built with **Node.js, Express, GraphQL,
 
 > **Note:** This README covers the project setup and usage before further role-based filtering modifications (such as showing only a normal user's employees versus admin viewing all). It explains everything up to the point where the modal/backend updates for default user registration and employee filtering are introduced.
 
----
 
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/main
-## Features
 
 - **User Authentication:**
   - **Signup:** Users can create a new account.
@@ -245,8 +239,3 @@ query SearchEmployees($designation: String, $department: String) {
     date_of_joining
   }
 }
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> refs/remotes/origin/main
