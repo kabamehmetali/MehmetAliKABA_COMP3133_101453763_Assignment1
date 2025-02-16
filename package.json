@@ -35,7 +35,7 @@
   },
   "scripts": {
     "install-all": "cd serverside && npm install && cd ../frontend && npm install",
-    "start": "concurrently \"npm start --prefix serverside\" \"npm start --prefix frontend\"",
+    "start": "concurrently \"npm start --prefix serverside\" \"set PORT=8080 && npm start --prefix frontend\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
